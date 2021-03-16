@@ -4,11 +4,12 @@ Howdy! How's it going for you? Do you need something?
 
 I'm a Game Programming Instructor at AIE + Game Developer (of course).
 
-- 🔨 I'm working on curriculum content at [AIE](https://aie.edu)
+- 🔨 I teach game programming (and development) at [AIE](https://seattle.aie.edu)
 - 🌱 I'm currently learning [Rust](https://www.rust-lang.org/)
 - 💬 Talk to me about game dev, tools, and anime
 - 📫 How to reach me: [Twitter](https://twitter.com/terrehbyte) or E-Mail (check the sidebar)
 - 🎮 Plays: First Person Shooters, Visual Novels, Cute Things
+  - Currently Playing: [Genshin Impact](https://genshin.mihoyo.com/)
 - 💖 Pronouns: he/him
 
 <!--
