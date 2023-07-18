@@ -7,22 +7,11 @@ I'm a Game Programming Instructor at AIE + Game Developer (of course).
 - 🔨 I teach game programming (and development) at [AIE](https://seattle.aie.edu)
 - 🌱 I'm currently learning [Rust](https://www.rust-lang.org/)
 - 💬 Talk to me about game dev, tools, and anime
-- 📫 How to reach me: [Twitter](https://twitter.com/terrehbyte) or E-Mail (check the sidebar)
+- 📫 How to reach me
+    - [@terrehbyte@twitter.com](https://twitter.com/terrehbyte)
+    - For Gamedev - [@terrehbyte@mastodon.gamedev.place](https://mastodon.gamedev.place/@terrehbyte)
+    - For Anime - [@terrehbyte@sakurajima.moe](https://sakurajima.social/@terrehbyte)
+    - ... or E-Mail (check the sidebar)
 - 🎮 Plays: First Person Shooters, Visual Novels, Cute Things
-  - Currently Playing: [Genshin Impact](https://genshin.mihoyo.com/)
+    - Currently Playing: [Genshin Impact](https://genshin.hoyoverse.com/), [Honkai Star Rail](https://hsr.hoyoverse.com/)
 - 💖 Pronouns: he/him
-
-<!--
-**terrehbyte/terrehbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
