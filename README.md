@@ -10,7 +10,7 @@ I'm a Game Programming Instructor at AIE + Game Developer (of course).
 - 📫 How to reach me
     - [@terrehbyte@twitter.com](https://twitter.com/terrehbyte)
     - For Gamedev - [@terrehbyte@mastodon.gamedev.place](https://mastodon.gamedev.place/@terrehbyte)
-    - For Anime - [@terrehbyte@sakurajima.moe](https://sakurajima.social/@terrehbyte)
+    - For Anime - [@terrehbyte@sakurajima.moe](https://sakurajima.moe/@terrehbyte)
     - ... or E-Mail (check the sidebar)
 - 🎮 Plays: First Person Shooters, Visual Novels, Cute Things
     - Currently Playing: [Genshin Impact](https://genshin.hoyoverse.com/), [Honkai Star Rail](https://hsr.hoyoverse.com/)
