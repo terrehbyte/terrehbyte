@@ -8,7 +8,7 @@ I'm a Game Programming Instructor at AIE + Game Developer (of course).
 - 🌱 I'm currently learning [Rust](https://www.rust-lang.org/) and [Godot Engine](https://godotengine.org/) (and its GDScript)
 - 💬 Talk to me about game dev, tools, and anime
 - 📫 How to reach me
-    - [@terrehbyte (Bluesky)]([https://twitter.com/terrehbyte](https://bsky.app/profile/terrehbyte.com))
+    - [@terrehbyte (Bluesky)](https://bsky.app/profile/terrehbyte.com)
     - For Gamedev - [@terrehbyte@mastodon.gamedev.place](https://mastodon.gamedev.place/@terrehbyte)
     - For Anime - [@terrehbyte@sakurajima.moe](https://sakurajima.moe/@terrehbyte)
     - ... or E-Mail (check the sidebar)
