@@ -15,3 +15,6 @@ I'm a Game Programming Instructor at AIE + Game Developer (of course).
 - 🎮 Plays: First/Third Person Shooters, Visual Novels, Cute Things
     - Currently Playing: [Genshin Impact](https://genshin.hoyoverse.com/), [Honkai Star Rail](https://hsr.hoyoverse.com/), [Zenless Zone Zero](https://zenless.hoyoverse.com/), [HELLDIVERS 2](https://store.steampowered.com/app/553850/HELLDIVERS_2/)
 - 💖 Pronouns: he/him
+
+[config](https://github.com/terrehbyte/config) | [gitignore](https://github.com/terrehbyte/gitignore) | [linter](https://github.com/terrehbyte/linter)
+
